@@ -9,5 +9,9 @@ public class Serie {
 	private float duracion = 0;
 	private boolean visto = false;
 	
+	public Serie() {
+		// TODO Auto-generated constructor stub
+	}
+	
 	
 }
