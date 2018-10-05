@@ -1,10 +1,13 @@
 package com.softwareatumedida.practicasemana2;
 
 public class Serie {
-	private String titulo;
-	private String genero;
-	private String creador;
-	private int temporadas;
-	private float duracion;
+	
+	private String titulo = "";
+	private String genero = "";
+	private String creador = "";
+	private int temporadas = 1;
+	private float duracion = 0;
+	private boolean visto = false;
+	
 	
 }
